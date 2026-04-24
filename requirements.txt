@@ -1,0 +1,6 @@
+PyQt5
+pytube
+youtube-transcript-api
+python-dotenv
+yt-dlp
+groq
