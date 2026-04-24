@@ -44,3 +44,9 @@ Output is saved as a .txt file containing Markdown-formatted book chapters — o
 * The .env file can store API_KEY and LANGUAGE to pre-fill those fields on launch.
 * Processing can be cancelled at any time using the Cancel button.
 * If a video has no transcript available, it is skipped and processing continues.
+
+## Application Preview
+
+Desktop GUI converting YouTube playlists into AI-generated books with progress tracking and transcript caching.
+<img width="1907" height="1107" alt="image" src="https://github.com/user-attachments/assets/ac483108-1c4d-47a4-96db-db8c7ee5dc56" />
+
